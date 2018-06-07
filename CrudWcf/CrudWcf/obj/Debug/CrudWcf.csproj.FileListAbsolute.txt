@@ -1,0 +1,6 @@
+C:\Users\Vishnupriya.Bollam\Desktop\Wcf\CrudWcf\CrudWcf\bin\CrudWcf.dll.config
+C:\Users\Vishnupriya.Bollam\Desktop\Wcf\CrudWcf\CrudWcf\bin\CrudWcf.dll
+C:\Users\Vishnupriya.Bollam\Desktop\Wcf\CrudWcf\CrudWcf\bin\CrudWcf.pdb
+C:\Users\Vishnupriya.Bollam\Desktop\Wcf\CrudWcf\CrudWcf\obj\Debug\CrudWcf.csproj.CoreCompileInputs.cache
+C:\Users\Vishnupriya.Bollam\Desktop\Wcf\CrudWcf\CrudWcf\obj\Debug\CrudWcf.dll
+C:\Users\Vishnupriya.Bollam\Desktop\Wcf\CrudWcf\CrudWcf\obj\Debug\CrudWcf.pdb
